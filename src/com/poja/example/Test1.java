@@ -26,6 +26,7 @@ public class Test1 {
 		
 		System.out.println(map.get("pooja"));// 123
 		System.out.println(map.get("POOJA"));// 456\
+		//my third comment
 		
 	}
 
